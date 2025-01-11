@@ -14,7 +14,6 @@ This implies data reconciliation since not all input data is reliable, nor is th
 - **Programming Language**: Python
 - **Libraries**: pandas, numpy, scipy
 - **Data Sources**: Field sensors and lab data
-- **Data Visualization**: Jupyter Notebooks
 
 ## Repository Structure
 - `data/`: Contains raw and processed data.
